@@ -1,3 +1,3 @@
 export default function Custom500() {
-  return <div>deu ruim</div>;
+  return <div>deu ruim.</div>;
 }
