@@ -1,0 +1,78 @@
+{
+  "slices": {
+    "components": {
+      "ignews": {
+        "library": "slices",
+        "id": "ignews",
+        "name": "Ignews",
+        "description": "Ignews",
+        "model": {
+          "id": "ignews",
+          "type": "SharedSlice",
+          "name": "Ignews",
+          "description": "Ignews",
+          "variations": [
+            {
+              "id": "default",
+              "name": "Default",
+              "docURL": "...",
+              "version": "sktwi1xtmkfgx8626",
+              "description": "Ignews",
+              "primary": {
+                "title": {
+                  "type": "StructuredText",
+                  "config": {
+                    "single": "heading1",
+                    "label": "Title",
+                    "placeholder": "This is where it all begins..."
+                  }
+                },
+                "description": {
+                  "type": "StructuredText",
+                  "config": {
+                    "single": "paragraph",
+                    "label": "Description",
+                    "placeholder": "A nice description of your feature"
+                  }
+                }
+              },
+              "items": {},
+              "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+            }
+          ]
+        },
+        "mocks": {
+          "default": {
+            "variation": "default",
+            "version": "sktwi1xtmkfgx8626",
+            "items": [
+              {}
+            ],
+            "primary": {
+              "title": [
+                {
+                  "type": "heading1",
+                  "text": "Importance",
+                  "spans": []
+                }
+              ],
+              "description": [
+                {
+                  "type": "paragraph",
+                  "text": "Sint sit mollit quis minim excepteur sit occaecat sunt tempor deserunt deserunt Lorem excepteur excepteur. Eu pariatur occaecat id nostrud nisi aliquip pariatur.",
+                  "spans": []
+                }
+              ]
+            },
+            "slice_type": "ignews"
+          }
+        },
+        "meta": {
+          "fileName": "index",
+          "extension": "js"
+        },
+        "screenshotPaths": {}
+      }
+    }
+  }
+}
