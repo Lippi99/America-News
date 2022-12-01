@@ -15,6 +15,7 @@ export const nextAuth: NextAuthOptions = {
       },
     }),
   ],
+  secret: `${process.env.NEXT_AUTH_SECRET}`,
 
   callbacks: {
     async session({ session }) {
