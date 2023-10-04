@@ -1,8 +1,4 @@
-
-
-
-
-![news](https://github.com/Lippi99/America-News/assets/65247407/47462741-e1e1-4d40-a783-488ce4fd69f4)
+![news](https://github.com/Lippi99/America-News/assets/65247407/15b99c2b-5911-44cc-b117-b127e6e80ec3)
 
 
 ![image](https://github.com/Lippi99/dashboard_product_management/assets/65247407/94d038fb-672b-41cf-8fac-43c38dcbdd48)
